@@ -1,0 +1,25 @@
+{
+	"cars": [
+		{
+			"id": 1,
+			"chassis_number": "A11111",
+			"brand": "seat",
+			"model": "ibiza",
+			"price": 25
+		},
+		{
+			"id": 2,
+			"chassis_number": "B22222",
+			"brand": "opel",
+			"model": "astra",
+			"price": 20
+		},
+		{
+			"id": 3,
+			"chassis_number": "C33333",
+			"brand": "mercedes",
+			"model": "benz",
+			"price": 50
+		}
+	]
+}
